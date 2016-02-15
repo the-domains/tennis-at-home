@@ -1,0 +1,28 @@
+name: tennis at home
+favicon: null
+layout_spectrum: 0.7305182090494782
+typography_spectrum: 0.9081386309117079
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.40527090849354863
+  lightness: 0.5359063479118049
+  saturation: 0.6855313014239073
+  rhythmicContrast: 0.5898196902126074
+purpose: []
